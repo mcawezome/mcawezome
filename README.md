@@ -1,16 +1,35 @@
 ## Hi there 👋
+# My Name is Max McWhae
+### I am Programming Student
 
-<!--
-**mcawezome/mcawezome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cert IV Advanced Programming Student at TAFE
+But I have been learning coding as a hobbt since 2002 and Software Development since 2010.
 
-Here are some ideas to get you started:
+Skills I am learning in class:
+* Mobile Development (C# Maui)
+* Python Development and Open Source Contribution
+* Web Technology - HTML, CSS, Javascript bootcamp
+* Innovative Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Solo Projects:
+* 2002 - Neopets profile
+* 2004 - HTML Jokes Website
+* 2009 - Visual Basic Blackjack Game
+* 2010 - Java Project Euler Solutions
+* 2011 - Javascript Physics Equation Solver, Text deplagiariser, C++ Poker Bot
+* Break from programming
+* 2021 - Webscraping Project
+* 2022 - Advent of Code Practice, TAFE projects
+* 2024 - TAFE Projects
+
+Technologies I am familiar With
+* Java
+* C#, C++, C
+* Javascript, HTML, CSS
+* Python!
+
+Technologies I am interested in:
+* Deep Learning
+* Open Source Mobile Applications
+
+  www.linkedin.com/in/max-mcwhae-1bb983102
