@@ -1,15 +1,14 @@
 ## Hi there 👋
 # My Name is Max McWhae
-### I am Programming Student
+### I am Programming and AI Student
 
-I am a Cert IV Advanced Programming Student at TAFE
-But I have been learning coding as a hobbt since 2002 and Software Development since 2010.
+I am a Diploma of Advanced Programming Student at TAFE
+But I have been learning coding as a hobby since 2002 and Software Development since 2010.
 
-Skills I am learning in class:
-* Mobile Development (C# Maui)
+Skills I am focussing on:
 * Python Development and Open Source Contribution
-* Web Technology - HTML, CSS, Javascript bootcamp
-* Innovative Technologies
+* ML, DL Models
+* Data cleaning & Exploratory Analysis
 
 Solo Projects:
 * 2002 - Neopets profile
@@ -21,15 +20,18 @@ Solo Projects:
 * 2021 - Webscraping Project
 * 2022 - Advent of Code Practice, TAFE projects
 * 2024 - TAFE Projects
+* 2025 - TAFE Projects, Self-Study
 
-Technologies I am familiar With
+Technologies I have touched:
 * Java
 * C#, C++, C
 * Javascript, HTML, CSS
+
+Technologies I have loved:
 * Python!
 
 Technologies I am interested in:
-* Deep Learning
-* Open Source Mobile Applications
+* AI Safety
+* Open Source
 
   www.linkedin.com/in/max-mcwhae-1bb983102
